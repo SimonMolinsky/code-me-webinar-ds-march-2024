@@ -1,5 +1,5 @@
 # code-me-webinar-ds-march-2024
-Materiały na webinar Data Science dla Code:Me
+Materiały na webinar Data Science dla Code:Me który odbywał się w marcu i kwietniu 2024
 
 
 Dataset używany na prezentacji:
